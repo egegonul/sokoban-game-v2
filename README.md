@@ -1,6 +1,6 @@
 # Description
 
-Note: This is is the **second** version of the game where the stackquee in the game is implemented as a linked list.
+Note: This is is the **second** version of the game where the stackqueue in the game is implemented as a linked list.
 
 ![](images/fig1.PNG)
 

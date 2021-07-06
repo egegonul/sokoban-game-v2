@@ -1,6 +1,6 @@
 # Description
 
-Note: This is is the first version of the game where stack of the game is implemented as an array.
+Note: This is is the **second** version of the game where the stackquee in the game is implemented as a linked list.
 
 ![](images/fig1.PNG)
 
